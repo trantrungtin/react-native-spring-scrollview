@@ -1,6 +1,6 @@
 {
   "name": "@tinhardware/react-native-spring-scrollview",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "public": true,
   "description": "A cross-platform (iOS & Android) spring ScrollView",
   "main": "index.js",
