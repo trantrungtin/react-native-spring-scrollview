@@ -1,6 +1,6 @@
 {
   "name": "@tinhardware/react-native-spring-scrollview",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "public": true,
   "description": "A cross-platform (iOS & Android) spring ScrollView",
   "main": "index.js",
@@ -23,6 +23,6 @@
   "peerDependencies": {
     "react": "^16.3.1",
     "react-native": "^0.50.0",
-    "lottie-react-native":"latest"
+    "lottie-react-native": "latest"
   }
 }
